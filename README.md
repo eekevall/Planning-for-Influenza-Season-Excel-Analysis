@@ -57,4 +57,12 @@ Consolidating the analytical insights and findings of the exploratory analysis:
 ### Presenting the findings to Stakeholders
 * [Video Presentation of the Tableau Story](https://drive.google.com/file/d/1gAOwfRrCs_XyeS66AUOz0rUWBEqOwsbm/view?usp=sharing)
 
-* [Tableau Story](https://public.tableau.com/app/profile/elsa2253/viz/PlanningForInfluenza/PlanningForInfluenzaSeason)
+* [Interactive Story in Tableau](https://public.tableau.com/app/profile/elsa2253/viz/PlanningForInfluenza/PlanningForInfluenzaSeason)
+
+![Tableau_Burden_of_Influenza.png](https://github.com/eekevall/Planning-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Tableau_Story/Tableau_Burden_of_Influenza.png)
+![Tableau_Who_Is_Vulnerable.png](https://github.com/eekevall/Planning-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Tableau_Story/Tableau_Who_Is_Vulnerable.png)
+![Tableau_Estimating_the_Burden.png](https://github.com/eekevall/Planning-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Tableau_Story/Tableau_Estimating_the_Burden.png)
+![Tableau_Hospitals_and_Staffing_Ratios](https://github.com/eekevall/Planning-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Tableau_Story/Tableau_Hospitals_and_Staffing_Ratios.png)
+![Tableau_Planning_For_Influenza.png](https://github.com/eekevall/Planning-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Tableau_Story/Tableau_Planning_For_Influenza.png)
+
+
