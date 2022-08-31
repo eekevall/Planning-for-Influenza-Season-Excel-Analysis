@@ -1,8 +1,8 @@
 # Preparing-for-Influenza-Season-Excel-Analysis
-Analysis using Excel to help plan for Influenza Season in the United States for the Career Foundry Data Analysis Immersion course.
+An analysis using Excel to interrgate the data.
 
 ## Project Overview
-**Motivation** : The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff.
+**Motivation** : The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. MedStaff, a medical staffing agency, provides the temporary staff.
 
 **Objective** : Determine when to send staff, and how many, to each state.
 
@@ -13,16 +13,48 @@ Analysis using Excel to help plan for Influenza Season in the United States for 
 
 ### Data Sets
 The following data sets were used during the project:
-1. [CDC Hospitalisation Rates](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/CDC_Hospitalisation_Rates.csv)
-2. [CDC Influenza Visits](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/CDC_Influenza_Visits.xlsx) 
-3. [CDC Lab Tests](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/CDC_Lab_Tests.xlsx)
-4. [Census Population Transformed 202101](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/Census_Population_transformed_202101.csv)
-1. [Influenza deaths] by geography, time, age, and gender 
+1. [CDC Influenza Deaths](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/CDC_Influenza_Deaths_edited.xlsx)
+2. [Census Population Transformed 202101](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/Census_Population_transformed_202101.csv) - replaced in the analysis by the New Population 2010_17 below
+3. [New Population Data 2010_17](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/New_Population_Data_2010_17.xlsx)
+4. [CDC Influenza Visits](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/CDC_Influenza_Visits.xlsx) 
+5. [Vaccination Coverage among Health Care Personnel](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/Vaccination_Coverage_among_Health_Care_Personnel.csv)
 6. [Influenza Vaccination Coverage for All Ages 6 Months](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/Influenza_Vaccination_Coverage_for_All_Ages__6__Months_.csv)
-7. [NIS Flu Shot Survey reduced](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/NIS_Flu_Shot_Survey_reduced.xlsx)
-8. [Vaccination Coverage among Health Care Personnel](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/Vaccination_Coverage_among_Health_Care_Personnel.csv)
-
-
-
+7. [CDC Hospitalisation Rates](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Datasets/CDC_Hospitalisation_Rates.csv)
 
 ### Data Analysis Tasks
+* Formulating a research hypothesis and sourcing the right data
+* Data profiling, quality, transformation and integration
+* Statistical analyses and hypothesis testing
+* Consolidating analytical insights and creating visualisations
+* Communicating research findings and insights
+
+### Hypothesis<br>
+**If states have a high proportion of vaccinated health care workers (nurses, physician assistants and doctors), then fewer vulnerable people will develop serious complications and end up in the hospital.**
+
+## Project Processes and Findings
+
+An overview of the data sets consulted:
+* [Data_Overview.pdf](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Data_Overview.pdf)
+
+The data profiles documenting the cleaning, wrangling and consistency checking processes:
+* [Data_Profiles.xlsx](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Data_Profiles.xlsx)
+
+Link to the data transforming, mapping and integrating processes: 
+* [Data_Transformations.xlsx](https://docs.google.com/spreadsheets/d/1c5byzTaPesWN7Ggi-amqDn0KQDu52IBc/edit?usp=sharing&ouid=118087080568326966799&rtpof=true&sd=true)
+
+Final integrated dataset and the data dictionary:
+* [Integrated_Data_Set_Dictionary.xlsx](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Integrated_Data_Set_Dictionary.xlsx)
+
+Statistical analysis of the key variables and testing for correlations:
+* [Statistical_Analysis.xlsx](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Statistical_Analysis.xlsx)
+
+Statistical hypothesis tested and interpretation of the results:
+* [Hypothesis_Testing.xlsx](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Hypothesis_Testing.xlsx)
+
+Consolidating the analytical insights and findings of the exploratory analysis:
+* [Interim_Analytical_Report.pdf](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Interim_Analytical_Report.pdf)
+
+### Presenting the findings to Stakeholders
+* [Video Presentation of the Tableau Story](https://drive.google.com/file/d/1gAOwfRrCs_XyeS66AUOz0rUWBEqOwsbm/view?usp=sharing)
+
+* [Tableau Story](https://public.tableau.com/app/profile/elsa2253/viz/PlanningForInfluenza/PlanningForInfluenzaSeason)
