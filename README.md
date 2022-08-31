@@ -39,8 +39,8 @@ An overview of the data sets consulted:
 The data profiles documenting the cleaning, wrangling and consistency checking processes:
 * [Data_Profiles.xlsx](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Data_Profiles.xlsx)
 
-Link to the data transforming, mapping and integrating processes: 
-* [Data_Transformations.xlsx](https://docs.google.com/spreadsheets/d/1c5byzTaPesWN7Ggi-amqDn0KQDu52IBc/edit?usp=sharing&ouid=118087080568326966799&rtpof=true&sd=true)
+The data transforming, mapping and integrating processes: 
+* Link to [Data_Transformations.xlsx](https://docs.google.com/spreadsheets/d/1c5byzTaPesWN7Ggi-amqDn0KQDu52IBc/edit?usp=sharing&ouid=118087080568326966799&rtpof=true&sd=true)
 
 Final integrated dataset and the data dictionary:
 * [Integrated_Data_Set_Dictionary.xlsx](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Integrated_Data_Set_Dictionary.xlsx)
@@ -55,10 +55,11 @@ Consolidating the analytical insights and findings of the exploratory analysis:
 * [Interim_Analytical_Report.pdf](https://github.com/eekevall/Preparing-for-Influenza-Season-Excel-Analysis/blob/main/Interim_Analytical_Report.pdf)
 
 ### Presenting the findings to Stakeholders
-* [Video Presentation of the Tableau Story](https://drive.google.com/file/d/1gAOwfRrCs_XyeS66AUOz0rUWBEqOwsbm/view?usp=sharing)
+* Link to the [Video Presentation of the Tableau Story](https://drive.google.com/file/d/1gAOwfRrCs_XyeS66AUOz0rUWBEqOwsbm/view?usp=sharing)
 
-* [Interactive Story in Tableau](https://public.tableau.com/app/profile/elsa2253/viz/PlanningForInfluenza/PlanningForInfluenzaSeason)
+* Link to the [Interactive Story in Tableau](https://public.tableau.com/app/profile/elsa2253/viz/PlanningForInfluenza/PlanningForInfluenzaSeason)
 
+* Planning for Influenza Season Tableau Story (static images)
 ![Tableau_Burden_of_Influenza.png](https://github.com/eekevall/Planning-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Tableau_Story/Tableau_Burden_of_Influenza.png)
 ![Tableau_Who_Is_Vulnerable.png](https://github.com/eekevall/Planning-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Tableau_Story/Tableau_Who_Is_Vulnerable.png)
 ![Tableau_Estimating_the_Burden.png](https://github.com/eekevall/Planning-for-Influenza-Season-Excel-Analysis/blob/main/Influenza_Season_Tableau_Story/Tableau_Estimating_the_Burden.png)
