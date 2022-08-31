@@ -1,4 +1,4 @@
-# Preparing-for-Influenza-Season-Excel-Analysis
+# Planning-for-Influenza-Season-Excel-Analysis
 An analysis using Excel to interrgate the data.
 
 ## Project Overview
