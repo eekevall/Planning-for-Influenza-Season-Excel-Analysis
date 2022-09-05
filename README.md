@@ -1,5 +1,5 @@
 # Planning-for-Influenza-Season-Excel-Analysis
-An analysis using Excel to interrgate the data.
+A predictive analysis using Microsoft Excel to analyse seasonal trends and forecast staffing ratios.
 
 ## Project Overview
 **Motivation** : The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. MedStaff, a medical staffing agency, provides the temporary staff.
