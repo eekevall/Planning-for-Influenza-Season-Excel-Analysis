@@ -28,6 +28,9 @@ The following data sets were used during the project:
 * Consolidating analytical insights and creating visualisations
 * Communicating research findings and insights
 
+### Tools
+The analysis was carried out using Microsoft Excel and Tableau.
+
 ### Hypothesis<br>
 **If states have a high proportion of vaccinated health care workers (nurses, physician assistants and doctors), then fewer vulnerable people will develop serious complications and end up in the hospital.**
 
